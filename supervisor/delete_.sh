@@ -1,0 +1,1 @@
+node /home/devbots/supervisor/delete_linode/app.js "$@"

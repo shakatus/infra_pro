@@ -1,0 +1,7 @@
+DATABASE_HOST = ""
+DATABASE_USER = "shaka_desyng"
+DATABASE_PASSWORD = "Shaka_Profamilia"
+DATABASE_NAME = "botsprofamilia"
+VPC_BASE = "10.20.30"
+PASSWORD_CRYPTO = "Shaka_Profamilia"
+SHAREPOINT_BASE = "Archivos"

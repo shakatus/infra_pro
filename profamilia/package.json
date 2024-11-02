@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "csv-parser": "^3.0.0",
+    "pg": "^8.13.0",
+    "puppeteer": "^23.4.1"
+  }
+}

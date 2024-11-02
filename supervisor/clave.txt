@@ -1,0 +1,2 @@
+: PSK "Pr0f@m1lia2024.#("
+bot.validador : XAUTH "H@288823575555uq"

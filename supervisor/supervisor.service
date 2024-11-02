@@ -1,0 +1,15 @@
+[Unit]
+Description=Despierte Haragan
+After=network.target
+
+[Service]
+User=devbots
+WorkingDirectory=/home/devbots/supervisor
+ExecStart=/home/devbots/supervisor/venv/bin/python /home/devbots/supervisor/supervisor.py
+Restart=always
+RestartSec=5  # Espera 5 segundos antes de reiniciar
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

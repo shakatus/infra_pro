@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@azure/identity": "^4.4.1",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "date-fns": "^4.1.0",
+    "isomorphic-fetch": "^3.0.0",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.13.0",
+    "punycode": "^2.3.1",
+    "puppeteer": "^23.4.1"
+  }
+}
